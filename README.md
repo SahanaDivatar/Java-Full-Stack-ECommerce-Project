@@ -151,7 +151,7 @@ ShopEase-ECommerce
 
 ## 📊 Customer Dashboard
 
-<img width="663" height="346" alt="image" src="https://github.com/user-attachments/assets/c778b0e0-57f0-4dc2-bc24-5ca51bd3867d" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/c778b0e0-57f0-4dc2-bc24-5ca51bd3867d" />
 
 
 ---
