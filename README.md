@@ -137,58 +137,58 @@ ShopEase-ECommerce
 
 ## 🏠 Home Page
 
-<img width="663" height="333" alt="image" src="https://github.com/user-attachments/assets/7db8b899-56e7-4ece-8c0e-e71ec0234064" />
+<img width="663" height="346" alt="image" src="https://github.com/user-attachments/assets/7db8b899-56e7-4ece-8c0e-e71ec0234064" />
 
 
 ---
 
 ## 👤 Customer Registration
 
-<img width="725" height="346" alt="image" src="https://github.com/user-attachments/assets/bc100432-9769-4252-a3a2-7c80f57ad39b" />
+<img width="663" height="346" alt="image" src="https://github.com/user-attachments/assets/bc100432-9769-4252-a3a2-7c80f57ad39b" />
 
 
 ---
 
 ## 📊 Customer Dashboard
 
-<img width="662" height="338" alt="image" src="https://github.com/user-attachments/assets/c778b0e0-57f0-4dc2-bc24-5ca51bd3867d" />
+<img width="663" height="346" alt="image" src="https://github.com/user-attachments/assets/c778b0e0-57f0-4dc2-bc24-5ca51bd3867d" />
 
 
 ---
 
 ## 🏪 Merchant Registration
 
-<img width="725" height="312" alt="image" src="https://github.com/user-attachments/assets/a3e6de5c-22ed-4380-86d8-4bbf9f1497ad" />
+<img width="663" height="346" alt="image" src="https://github.com/user-attachments/assets/a3e6de5c-22ed-4380-86d8-4bbf9f1497ad" />
 
 
 ---
 
 ## 🛍️ Browse Products
 
-<img width="450" height="409" alt="image" src="https://github.com/user-attachments/assets/b8ef1050-4650-46c0-b35e-a88e59b77c53" />
+<img width="663" height="346" alt="image" src="https://github.com/user-attachments/assets/b8ef1050-4650-46c0-b35e-a88e59b77c53" />
 
 
 ---
 
 ## 🏪 Merchant Dashboard
 
-<img width="651" height="300" alt="image" src="https://github.com/user-attachments/assets/87074829-8c9e-48c1-aa4a-c46f61870431" />
+<img width="663" height="346" alt="image" src="https://github.com/user-attachments/assets/87074829-8c9e-48c1-aa4a-c46f61870431" />
 
 
 ---
 
 ## 👨‍💼 Admin Dashboard
 
-<img width="688" height="300" alt="image" src="https://github.com/user-attachments/assets/cdfe505c-ccfa-4848-9ae5-c16f7266e418" />
+<img width="663" height="346" alt="image" src="https://github.com/user-attachments/assets/cdfe505c-ccfa-4848-9ae5-c16f7266e418" />
 
 
 ---
 
 ## 💳 Payment Successful
 
-<img width="462" height="412" alt="image" src="https://github.com/user-attachments/assets/2a301f31-56ad-409c-9ea7-a0abaa592e5e" />
+<img width="663" height="346" alt="image" src="https://github.com/user-attachments/assets/2a301f31-56ad-409c-9ea7-a0abaa592e5e" />
 
-<img width="437" height="412" alt="image" src="https://github.com/user-attachments/assets/5b79185e-881a-44e3-b4b0-7ba5105c8f20" />
+<img width="663" height="346" alt="image" src="https://github.com/user-attachments/assets/5b79185e-881a-44e3-b4b0-7ba5105c8f20" />
 
 
 ---
@@ -236,6 +236,7 @@ Through this project, I gained practical experience in:
 ---
 
 # 📖 Documentation
+
 
 The complete internship report is available in this repository:
 
